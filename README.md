@@ -17,14 +17,14 @@ According to the research, 72,458 employees will be retiring in the next few yea
 ### Result 2
 In the Table 1, 72,458 employees are summarized by the most recent title of each employee. 25,916 senior engineer positions and 24,926 senior staff positions will be left open. They are the top two positions the company need to fill in the next few years.
 
-(Table 1) Count of retiring employees
+#### (Table 1) Count of retiring employees
 
 ![](https://github.com/Ryoichi2022/Pewlett-Hackard-Analysis/blob/main/Table%201.png)
 
 ### Result 3
 Those employees who were born between January 1, 1965 and December 31, 1965 are eligible to the company’s mentorship program. There are currently 1,549 employees that are eligible to the program. Their current title includes Senior Staff (475 employees) and Senior Engineer (248 employees) as well as Engineer (436 employees).
 
-(Table 2) Count of employees eligible to the mentorship program
+#### (Table 2) Count of employees eligible to the mentorship program
 
 ![](https://github.com/Ryoichi2022/Pewlett-Hackard-Analysis/blob/main/Table%202.png)
 
