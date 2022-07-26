@@ -32,7 +32,7 @@ Those employees who were born between January 1, 1965 and December 31, 1965 are 
 Table 1 and Table 2 indicates that the titles of the employees that are retiring in the next few years overlap with the titles of the employees that are eligible to the mentorship program. As a matter of fact, the top four major titles, including Senior Engineer, Senior Staff, Engineer, and Staff, are exactly the same between two groups.
 
 
-## 3. Summary - Additional quieries
+## 3. Summary - Additional queries
 ### The number of roles to be filled
 It may actually depend on how many employees are currently in Pewlett Hackard that would take over the opening positions in the next few years. While some younger employees change their jobs, others will continue to work with the company to be promoted to the higher positions. Therefore, the company does not necessarily recruit the same number of employees as those who are going to retire. An additional query will be what the number of employees are who were born between 1956 and 1964 and what the titles of those employees are.
 
